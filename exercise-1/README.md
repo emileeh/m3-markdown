@@ -6,5 +6,7 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-# "We put the RA in rager" - betsy 
-https://www.hfs.washington.edu/myhfs/Default.aspx?id=77&menu=0#gsc.tab=0
+> "We put the RA in rager" - Betsy 
+
+[HFS Website](https://www.hfs.washington.edu/myhfs/Default.aspx?id=77&menu=0#gsc.tab=0)
+
