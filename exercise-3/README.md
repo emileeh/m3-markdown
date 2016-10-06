@@ -14,7 +14,7 @@ See `complete` branch for answers.
 #cd 
 
 
-`cd` can be used to _change_ the current working directory in operating systems. It can be used to change into a subdirectory, move back to the parent directory, or move all the way back to the **parent directory**. 
+`cd` can be used to _change_ the current **working directory** in operating systems. It can be used to change into a subdirectory, move back to the parent directory, or move all the way back to the **parent directory**. 
 
 Example:
 
