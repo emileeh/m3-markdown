@@ -9,3 +9,25 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+-
+#cd 
+
+
+`cd` can be used to _change_ the current working directory in operating systems. It can be used to change into a subdirectory, move back to the parent directory, or move all the way back to the **parent directory**. 
+
+Example:
+
+```
+cd Desktop
+```
+or
+
+```
+cd ../
+```
+
+here is some more info about the `cd` command:
+
+* `cd ..` takes you up one directory.
+* `cd /root` take you to the home directory of the root, or the account created at installation. 
